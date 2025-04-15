@@ -31,5 +31,3 @@ Check out the live version: [Business Nexus on Vercel](https://business-nexus-fs
 3. Run locally:
    ```bash
    npm run dev
-4. Deployment
-Deployed on Vercel: https://business-nexus-fscez4dat-muzamal-asghars-projects.vercel.app
