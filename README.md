@@ -2,8 +2,6 @@
 A networking platform connecting entrepreneurs and investors, built with React, Vite, Tailwind CSS, and Redux.
 # Business Nexus
 A networking platform designed to connect entrepreneurs and investors, featuring role-specific dashboards, profiles, and a real-time chat system. Built as a frontend project with React, Vite, Tailwind CSS, and Redux.
-## Live Demo
-Check out the live version: [Business Nexus on Vercel](https://business-nexus-fscez4dat-muzamal-asghars-projects.vercel.app)
 ## Features
 - **Authentication**: Login and registration with role selection (Investor/Entrepreneur).
 - **Dashboards**:
